@@ -36,10 +36,11 @@ The goal of this app is to **help people recognize whether a bottle is made of p
 
 ## 🖼️ Training Data Samples
 
-| Class   | Image Preview   | Number of Training Images |
-|---------|------------------|----------------------------|
-| Glass   | `example1.jpg`   | 196 photos                 |
-| Plastic | `example2.jpg`   | 2,217 photos               |
+| Class | Image Preview                  | Number of Training Images |
+|-------|--------------------------------|----------------------------|
+| Glass | ![](example1.jpg)              | 196 photos                 |
+| Plastic | ![](example2.jpg)           | 2,217 photos               |
+
 
 (*These example images are included in the app for reference.*)
 
@@ -47,8 +48,9 @@ The goal of this app is to **help people recognize whether a bottle is made of p
 
 ## 👩‍🔬 Model Authors
 
-- **[Student Name 1]**
-- **[Student Name 2]**
+- **隋屹宸 Eric**
+- **陈弈楷 Steven**
+
 
 ---
 
